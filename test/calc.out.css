@@ -1,3 +1,7 @@
+:root {
+  var-base-font-size: 16px
+}
+
 body {
   width: 100%
 }
@@ -9,5 +13,6 @@ body > footer {
 }
 
 body > header {
-  height: 6em
+  height: 6em;
+  font-size: 32px
 }
