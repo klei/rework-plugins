@@ -1,0 +1,22 @@
+{
+  "name": "klei-rework-plugins",
+  "version": "0.1.0",
+  "description": "Some nice plugins for rework the css preprocessing library",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -R spec"
+  },
+  "repository": "git://github.com/klei-dev/rework-plugins.git",
+  "keywords": [
+    "rework",
+    "rework-plugins",
+    "css"
+  ],
+  "author": "Joakim Bengtson <joakim@klei.se>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.8.1",
+    "rework": "~0.13.2",
+    "chai": "~1.5.0"
+  }
+}
