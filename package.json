@@ -1,6 +1,6 @@
 {
   "name": "klei-rework-plugins",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Some nice plugins for rework the css preprocessing library",
   "main": "index.js",
   "scripts": {
@@ -15,8 +15,8 @@
   "author": "Joakim Bengtson <joakim@klei.se>",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "~1.8.1",
-    "rework": "~0.13.2",
-    "chai": "~1.5.0"
+    "mocha": "~1.15.1",
+    "rework": "~0.18.3",
+    "chai": "~1.8.1"
   }
 }
