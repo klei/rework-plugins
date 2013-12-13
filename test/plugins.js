@@ -19,7 +19,7 @@ describe('klei-rework-plugins', function(){
   describe('calc()', function(){
     it('should add calculations support', function(){
       rework(css.in('calc'))
-        .use(rework.vars())
+        .use(rework.references())
         .use(plugins.calc())
         .toString()
         .should.equal(css.out('calc'));

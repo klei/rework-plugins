@@ -1,6 +1,8 @@
 klei-rework-plugins
 ===================
 
+## **DEPRECATED!** _This repository is deprecated in favor of [rework-calc](https://github.com/klei-dev/rework-calc) and [rework-breakpoints](https://github.com/klei-dev/rework-breakpoints)!_
+
 A collection of plugins for the CSS Preprocessor [rework](https://github.com/visionmedia/rework).
 
 ## Installation

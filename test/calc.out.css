@@ -1,18 +1,14 @@
-:root {
-  var-base-font-size: 16px
-}
-
 body {
-  width: 100%
+  width: 100%;
 }
 
 body > header,
 body > section,
 body > footer {
-  width: calc(100% - 2em)
+  width: calc(100% - 2em);
 }
 
 body > header {
   height: 6em;
-  font-size: 32px
+  font-size: 3em;
 }
